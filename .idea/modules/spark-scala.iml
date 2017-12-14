@@ -22,6 +22,23 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="SBT: aopalliance:aopalliance:1.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.typelevel:macro-compat_2.11:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.typelevel:machinist_2.11:0.6.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.spire-math:spire_2.11:0.13.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.spire-math:spire-macros_2.11:0.13.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalanlp:breeze_2.11:0.13.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalanlp:breeze-macros_2.11:0.13.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.jpmml:pmml-schema:1.2.15:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.jpmml:pmml-model:1.2.15:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.spark:spark-streaming_2.11:2.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.spark:spark-mllib_2.11:2.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.spark:spark-mllib-local_2.11:2.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.apache.spark:spark-graphx_2.11:2.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: net.sourceforge.f2j:arpack_combined_all:0.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: net.sf.opencsv:opencsv:2.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.rwl:jtransforms:2.4.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.fommil.netlib:core:1.1.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.chuusai:shapeless_2.11:2.3.2:jar" level="project" />
     <orderEntry type="module-library">
       <library name="SBT: unmanaged-sources-and-docs">
         <CLASSES />
